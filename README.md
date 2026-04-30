@@ -64,10 +64,10 @@ Date: 2026-04-30
 Citation
 
 If you use this database, cite:
-Staphylococcus SaPIs Database. GitHub repository. Available at: https://github.com/macgenomegue/Staphylococcus_-SaPIs
+Staphylococcus SaPIs Database. GitHub repository. Available at: https://github.com/macgenomegue/Staphylococcus_SaPIs
 
 Suggested citation format
-Staphylococcus SaPIs Database (version 1.0). Available at: https://github.com/macgenomegue/Staphylococcus_-SaPIs
+Staphylococcus SaPIs Database (version 1.0). Available at: https://github.com/macgenomegue/Staphylococcus_SaPIs
 Macori G, Bellio A, Bianchi DM, Chiesa F, Gallina S, Romano A, Zuccon F, Cabrera-Rubio R, Cauquil A, Merda D, Auvray F. Genome-wide profiling of enterotoxigenic Staphylococcus aureus strains used for the production of naturally contaminated cheeses. Genes. 2019 Dec 27;11(1):33.
 Contact
 
